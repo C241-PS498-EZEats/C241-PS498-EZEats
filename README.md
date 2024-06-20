@@ -30,6 +30,6 @@ EZ Eats is an android application that provides a wide range of Indonesian food 
 
 ## Repositories
 
-- [Machine Learning Repo]()
+- [Machine Learning Repo](https://github.com/C241-PS498-EZEats/EZ-Eats_ML)
 - [Mobile Development Repo]()
 - [Cloud Computing Repo]()
