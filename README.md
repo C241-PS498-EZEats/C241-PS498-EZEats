@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="" alt="EZ Eats Logo" width="200">
+<p align="center" style="background-color: #129575; padding: 20px; display: inline-block;">
+    <img src="https://github.com/C241-PS498-EZEats/C241-PS498-EZEats/blob/main/Assets/EZEATS-01.png" alt="EZ Eats Logo" width="200">
 </p>
-<h2 align="center"><strong>EZ Eats</strong></h2>
-<p align="center"><strong>Slogan</strong></p>
+<h1 align="center">EZ Eats</h1>
 
 ## Description
 
