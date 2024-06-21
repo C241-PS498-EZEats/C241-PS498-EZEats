@@ -23,12 +23,10 @@ As college students, we saw people around us are also facing these problems and 
 
 ## Our App
 
-[Link App]()
-
 EZ Eats is an android application that provides a wide range of Indonesian food recipes, accommodating users with many cooking skills and preferences. By inputting available ingredients, users can receive recipe suggestions that match their ingredient inventory.
 
 ## Repositories
 
 - [Machine Learning Repo](https://github.com/C241-PS498-EZEats/EZ-Eats_ML)
 - [Mobile Development Repo]()
-- [Cloud Computing Repo]()
+- [Cloud Computing Repo](https://gitfront.io/r/jansenloman/wxeuy7Pr6BU6/capstone-project/) - Due to the GitHub repository leaking the .env and other sensitive files, we are using GitFront as a middleware. This allows us to view only the most recent updates from GitHub without accessing the full history.
