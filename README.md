@@ -1,5 +1,5 @@
 <p align="center" style="background-color: #129575; padding: 20px; display: inline-block;">
-    <img src="https://github.com/C241-PS498-EZEats/C241-PS498-EZEats/blob/main/Assets/EZEATS-01.png" alt="EZ Eats Logo" width="200">
+    <img src="https://github.com/C241-PS498-EZEats/C241-PS498-EZEats/blob/main/Assets/Colored-EZEATS-01.png" alt="EZ Eats Logo" width="200">
 </p>
 <h1 align="center">EZ Eats</h1>
 
